@@ -4,7 +4,7 @@
     "target": "esnext",
     "lib": ["es2018", "webworker"],
     "jsx": "react",
-    "noImplicitAny": true,
+    "noImplicitAny": false,
     "preserveConstEnums": true,
     "outDir": "./dist",
     "moduleResolution": "node",
